@@ -6,3 +6,5 @@ A keylogger (python) that sends its logs to gmail and attempts to add a registry
 Furthermore you will need pyHook and pythoncom modules to work. 
 1.)pyHook 
 2.)pythoncom
+
+original authored by ajinabraham https://github.com/ajinabraham
